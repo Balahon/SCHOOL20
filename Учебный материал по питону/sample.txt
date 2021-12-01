@@ -1,0 +1,6 @@
+Name|Phone
+Jone;231
+Bob;1234
+Alice;5413
+Eric;2312Eddi;1312Eddi;1312/nEddi;1312
+Eddi;1312
